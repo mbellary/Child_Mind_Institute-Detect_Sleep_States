@@ -1,0 +1,13 @@
+{
+    "IS_DEBUG": "True",
+    "train_series_path": "C:/Users/bmoha/Work/competitions/DSS/dataset/child-mind-institute-detect-sleep-states/train_series_sample.parquet",
+    "train_events_path": "C:/Users/bmoha/Work/competitions/DSS/dataset/child-mind-institute-detect-sleep-states/train_events.csv",
+    "test_path": "C:/Users/bmoha/Work/competitions/DSS/dataset/child-mind-institute-detect-sleep-states/test_series.parquet",
+    "sample_submission_path": "dataset/child-mind-institute-detect-sleep-states/sample_submission.csv",
+    "preprocess_dir": "data_processed/",
+    "steps_per_sec": 0.2,
+    "step_for_1min": 12.0,
+    "step_for_15min": 180.0,
+    "step_for_30min": 360.0,
+    "step_for_a_day": 17280.0
+}
